@@ -1,10 +1,117 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
+
+    <!-- Bootstrap CSS -->
+    <link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css"
+          integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" rel="stylesheet">
+    <link data-require="bootstrap-css@3.1.1" data-semver="3.1.1" rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" />
+    <style>
+        div.card-body{
+            width:740px;
+            height:675px;
+        }
+
+        .center{
+            margin-left:5%;
+        }
+        #intro {
+            background-image: url("#");
+            height: 100vh;
+            opacity: inherit;
+        }
+    </style>
+    <title>Homepage</title>
+
+</head>
+<body style ="background-color: lightblue;">
+<div class="container-fluid">
+    <div class="row">
+        <nav class="navbar navbar-expand-sm navbar-dark fixed-top bg-primary">
+
+            <a class="navbar-brand" href="index.html"> How the Internet Works</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="container">
+                <div class="row">
+                    <div class="col"></div>
+                </div>
+            </div>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link " aria-current="page" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item active dropdown">
+                        <a class="nav-link dropdown-toggle " href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Information
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <li><a class="dropdown-item" href="Anonymous.html">Becoming Anonymous: The Complete Guide to Maximum Security Online</a></li>
+                            <li><a class="dropdown-item" href="Capitalism.html">Shoshana Zuboff on surveillance capitalism</a></li>
+                            <li><a class="dropdown-item" href="Edward1.html">United States of Secrets: Edward Snowden Part 1</a></li>
+                            <li><a class="dropdown-item" href="Edward2.html">United States of Secrets: Edward Snowden Part 2</a></li>
+                            <li><a class="dropdown-item" href="Browser_Fingerprinting.html">Browser Fingerprinting</a></li>
+                            <li><a class="dropdown-item" href="Tracked.html">How you are tracked online</a></li>
+                            <li><a class="dropdown-item" href="Facebook1.html">Facebook Dilemma Part 1</a></li>
+                            <li><a class="dropdown-item" href="Fackbook2.html">Facebook Dilemma Part 2</a></li>
+                            <li><a class="dropdown-item" href="Analysis.html">Look Alike Analysis</a></li>
+                            <li><a class="dropdown-item" href="Privacy.html">Legal Aspects of Online Privacy</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+    <div class="row">
+        <div class="col-12">
+            <div class="card">
+                <div id="intro" class="bg-image shadow-2-strong">
+                    <div class="mask" style="background-color: rgba(0, 0, 0, 0.8);">
+                        <div class="container d-flex align-items-center justify-content-center text-center h-100">
+                            <div class="text-white">
+                                <h1 class="mb-3">Jia Zhong IS117 OMDP</h1>
+                                <h5 class="mb-4">Online Marketing and Data Privacy</h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <footer class="bg-light text-lg-start">
+        <div class="col" style="background-color: rgba(0, 0, 0, 0.8);">
+            <ul style="list-style-type:none;">
+                <li style="color:whitesmoke" >Site Link:</li>
+                <li><a class="dropdown-item" href="Anonymous.html">Becoming Anonymous: The Complete Guide to Maximum Security Online</a></li>
+                <li><a class="dropdown-item" href="Capitalism.html">Shoshana Zuboff on surveillance capitalism</a></li>
+                <li><a class="dropdown-item" href="Edward1.html">United States of Secrets: Edward Snowden Part 1</a></li>
+                <li><a class="dropdown-item" href="Edward2.html">United States of Secrets: Edward Snowden Part 2</a></li>
+                <li><a class="dropdown-item" href="Browser_Fingerprinting.html">Browser Fingerprinting</a></li>
+                <li><a class="dropdown-item" href="Tracked.html">How you are tracked online</a></li>
+                <li><a class="dropdown-item" href="Facebook1.html">Facebook Dilemma Part 1</a></li>
+                <li><a class="dropdown-item" href="Fackbook2.html">Facebook Dilemma Part 2</a></li>
+                <li><a class="dropdown-item" href="Analysis.html">Look Alike Analysis</a></li>
+                <li><a class="dropdown-item" href="Privacy.html">Legal Aspects of Online Privacy</a></li>
+            </ul>
+            <div class="text-center" style="background-color:dodgerblue;">
+                © 2021 Copyright: Jia Zhong OMDP: Online Marketing and Data Privacy
+            </div>
+        </div>
+    </footer>
+</div>
 </body>
+<!-- Optional JavaScript -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+<script crossorigin="anonymous"
+        integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js"></script>
+
 </html>
