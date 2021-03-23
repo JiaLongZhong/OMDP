@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46c2baa7-1f1c-4c3d-a704-75b7eb23ad1b" name="Default Changelist" comment="">
+    <list default="true" id="46c2baa7-1f1c-4c3d-a704-75b7eb23ad1b" name="Default Changelist" comment="Add carousel to homepage (index.html)">
+      <change afterPath="$PROJECT_DIR$/image/pexels-designecologist-1779487.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -32,7 +33,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jia Zhong\WebstormProjects\OMDP\image" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -42,7 +49,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616424924963</updated>
-      <workItem from="1616424926252" duration="2433000" />
+      <workItem from="1616424926252" duration="2903000" />
+      <workItem from="1616509546174" duration="4450000" />
     </task>
     <task id="LOCAL-00001" summary="Add .gitignore and README.MD">
       <created>1616425120293</created>
@@ -79,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616426623928</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add carousel to homepage (index.html)">
+      <created>1616427644676</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1616427644676</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +106,7 @@
     <MESSAGE value="Update README.MD" />
     <MESSAGE value="Update index.html" />
     <MESSAGE value="Fixed footer error (index.html)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed footer error (index.html)" />
+    <MESSAGE value="Add carousel to homepage (index.html)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add carousel to homepage (index.html)" />
   </component>
 </project>
