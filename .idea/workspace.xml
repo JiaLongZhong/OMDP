@@ -49,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1616424924963</updated>
       <workItem from="1616424926252" duration="2903000" />
-      <workItem from="1616509546174" duration="6026000" />
+      <workItem from="1616509546174" duration="7360000" />
     </task>
     <task id="LOCAL-00001" summary="Add .gitignore and README.MD">
       <created>1616425120293</created>
@@ -107,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616521625537</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Editing Pic">
+      <created>1616522359923</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1616522359923</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +129,7 @@
     <MESSAGE value="Add carousel to homepage (index.html)" />
     <MESSAGE value="Fixed error" />
     <MESSAGE value="Editing NAVBAR" />
-    <option name="LAST_COMMIT_MESSAGE" value="Editing NAVBAR" />
+    <MESSAGE value="Editing Pic" />
+    <option name="LAST_COMMIT_MESSAGE" value="Editing Pic" />
   </component>
 </project>
