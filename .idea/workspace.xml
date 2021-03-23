@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46c2baa7-1f1c-4c3d-a704-75b7eb23ad1b" name="Default Changelist" comment="Add carousel to homepage (index.html)">
-      <change afterPath="$PROJECT_DIR$/image/pexels-designecologist-1779487.jpg" afterDir="false" />
+    <list default="true" id="46c2baa7-1f1c-4c3d-a704-75b7eb23ad1b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -50,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1616424924963</updated>
       <workItem from="1616424926252" duration="2903000" />
-      <workItem from="1616509546174" duration="4450000" />
+      <workItem from="1616509546174" duration="5374000" />
     </task>
     <task id="LOCAL-00001" summary="Add .gitignore and README.MD">
       <created>1616425120293</created>
@@ -94,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616427644676</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Fixed error">
+      <created>1616520759948</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1616520759948</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +113,7 @@
     <MESSAGE value="Update index.html" />
     <MESSAGE value="Fixed footer error (index.html)" />
     <MESSAGE value="Add carousel to homepage (index.html)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add carousel to homepage (index.html)" />
+    <MESSAGE value="Fixed error" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed error" />
   </component>
 </project>
