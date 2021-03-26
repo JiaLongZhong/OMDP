@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="46c2baa7-1f1c-4c3d-a704-75b7eb23ad1b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/Anonymous.html" beforeDir="false" afterPath="$PROJECT_DIR$/Anonymous.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fackbook2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Facebook2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +55,7 @@
       <workItem from="1616424926252" duration="2903000" />
       <workItem from="1616509546174" duration="9666000" />
       <workItem from="1616766178660" duration="1242000" />
-      <workItem from="1616767661059" duration="2065000" />
+      <workItem from="1616767661059" duration="2411000" />
     </task>
     <task id="LOCAL-00001" summary="Add .gitignore and README.MD">
       <created>1616425120293</created>
@@ -150,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616769549181</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Delete Fackbook2.html and replace it with Facebook2.html">
+      <created>1616769790535</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1616769790535</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,6 +175,7 @@
     <MESSAGE value="carousel image test" />
     <MESSAGE value="Update Anonymous.html content" />
     <MESSAGE value="Add more content to Anonymous.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add more content to Anonymous.html" />
+    <MESSAGE value="Delete Fackbook2.html and replace it with Facebook2.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Delete Fackbook2.html and replace it with Facebook2.html" />
   </component>
 </project>
