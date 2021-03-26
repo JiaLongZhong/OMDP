@@ -1,9 +1,9 @@
 #IS117:Online Marketing and Data Privacy
 Website Location on NJIT AFS:
-[Click Here to View My Website](https://web.njit.edu/~jlz6/OMPD/index.html)
+[Click Here to View My Website](https://web.njit.edu/~jlz6/OMDP/index.html)
 
 Website Location on Github:
-[Click Here to View My Website]( https://jialongzhong.github.io/OMDP/)
+[Click Here to View My Website](https://github.com/JiaLongZhong/OMDP.git)
 
 GitHub Page: https://github.com/JiaLongZhong/OMDP
 
