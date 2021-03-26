@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46c2baa7-1f1c-4c3d-a704-75b7eb23ad1b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Facebook1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Facebook1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Facebook2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Analysis.html" beforeDir="false" afterPath="$PROJECT_DIR$/Analysis.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +55,7 @@
       <workItem from="1616424926252" duration="2903000" />
       <workItem from="1616509546174" duration="9666000" />
       <workItem from="1616766178660" duration="1242000" />
-      <workItem from="1616767661059" duration="6210000" />
+      <workItem from="1616767661059" duration="6542000" />
     </task>
     <task id="LOCAL-00001" summary="Add .gitignore and README.MD">
       <created>1616425120293</created>
@@ -219,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616773727589</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Adding content to Facebook2.html">
+      <created>1616774125031</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1616774125031</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,6 +255,7 @@
     <MESSAGE value="Adding content to Browser_Fingerprinting.html" />
     <MESSAGE value="Adding content to Tracked.html" />
     <MESSAGE value="Adding content to Facebook1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding content to Facebook1" />
+    <MESSAGE value="Adding content to Facebook2.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding content to Facebook2.html" />
   </component>
 </project>
