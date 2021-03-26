@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46c2baa7-1f1c-4c3d-a704-75b7eb23ad1b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Analysis.html" beforeDir="false" afterPath="$PROJECT_DIR$/Analysis.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Browser_Fingerprinting.html" beforeDir="false" afterPath="$PROJECT_DIR$/Browser_Fingerprinting.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anonymous.html" beforeDir="false" afterPath="$PROJECT_DIR$/Anonymous.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Capitalism.html" beforeDir="false" afterPath="$PROJECT_DIR$/Capitalism.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Edward1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Edward1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Edward2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Edward2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Facebook1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Facebook2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Privacy.html" beforeDir="false" afterPath="$PROJECT_DIR$/Privacy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tracked.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tracked.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +56,7 @@
       <workItem from="1616424926252" duration="2903000" />
       <workItem from="1616509546174" duration="9666000" />
       <workItem from="1616766178660" duration="1242000" />
-      <workItem from="1616767661059" duration="2966000" />
+      <workItem from="1616767661059" duration="3270000" />
     </task>
     <task id="LOCAL-00001" summary="Add .gitignore and README.MD">
       <created>1616425120293</created>
@@ -170,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616770312885</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Update Page Layout">
+      <created>1616770669254</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1616770669254</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,6 +192,7 @@
     <MESSAGE value="Add more content to Anonymous.html" />
     <MESSAGE value="Delete Fackbook2.html and replace it with Facebook2.html" />
     <MESSAGE value="Update Anonymous.html Format" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Anonymous.html Format" />
+    <MESSAGE value="Update Page Layout" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Page Layout" />
   </component>
 </project>
