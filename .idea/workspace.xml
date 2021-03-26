@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46c2baa7-1f1c-4c3d-a704-75b7eb23ad1b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Privacy.html" beforeDir="false" afterPath="$PROJECT_DIR$/Privacy.html" afterDir="false" />
-    </list>
+    <list default="true" id="46c2baa7-1f1c-4c3d-a704-75b7eb23ad1b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +53,7 @@
       <workItem from="1616424926252" duration="2903000" />
       <workItem from="1616509546174" duration="9666000" />
       <workItem from="1616766178660" duration="1242000" />
-      <workItem from="1616767661059" duration="6850000" />
+      <workItem from="1616767661059" duration="7237000" />
     </task>
     <task id="LOCAL-00001" summary="Add .gitignore and README.MD">
       <created>1616425120293</created>
@@ -232,16 +230,28 @@
       <option name="project" value="LOCAL" />
       <updated>1616774415852</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Adding content to Privacy.html">
+      <created>1616774644497</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1616774644497</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Update README.MD">
+      <created>1616774779521</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1616774779521</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add .gitignore and README.MD" />
     <MESSAGE value="Add All Required Web-pages" />
-    <MESSAGE value="Update README.MD" />
     <MESSAGE value="Update index.html" />
     <MESSAGE value="Fixed footer error (index.html)" />
     <MESSAGE value="Add carousel to homepage (index.html)" />
@@ -264,6 +274,8 @@
     <MESSAGE value="Adding content to Facebook1" />
     <MESSAGE value="Adding content to Facebook2.html" />
     <MESSAGE value="Adding content to Analysis.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding content to Analysis.html" />
+    <MESSAGE value="Adding content to Privacy.html" />
+    <MESSAGE value="Update README.MD" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update README.MD" />
   </component>
 </project>
