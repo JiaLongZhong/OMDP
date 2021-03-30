@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46c2baa7-1f1c-4c3d-a704-75b7eb23ad1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/image/Cam.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/image/FB.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/image/FP.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/image/Govern.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/image/Protect.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/image/See.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/image/VPN.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/image/Watch.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Analysis.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Analysis.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Anonymous.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Anonymous.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Browser_Fingerprinting.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Browser_Fingerprinting.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Capitalism.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Capitalism.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Edward2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Edward2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Facebook1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Facebook1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Facebook2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Facebook2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Privacy.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Privacy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Tracked.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Tracked.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +59,8 @@
       <workItem from="1616766178660" duration="1242000" />
       <workItem from="1616767661059" duration="8571000" />
       <workItem from="1616778523278" duration="33000" />
-      <workItem from="1617110557879" duration="2774000" />
+      <workItem from="1617110557879" duration="2958000" />
+      <workItem from="1617121039062" duration="462000" />
     </task>
     <task id="LOCAL-00001" summary="Add .gitignore and README.MD">
       <created>1616425120293</created>
@@ -289,14 +272,20 @@
       <option name="project" value="LOCAL" />
       <updated>1616775538369</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Add Image to content">
+      <created>1617114340635</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1617114340635</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add carousel to homepage (index.html)" />
     <MESSAGE value="Fixed error" />
     <MESSAGE value="Editing NAVBAR" />
     <MESSAGE value="Editing Pic" />
@@ -321,6 +310,7 @@
     <MESSAGE value="Create docs Folder" />
     <MESSAGE value="Add image to docs Folder + update README.MD" />
     <MESSAGE value="Fix tag" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix tag" />
+    <MESSAGE value="Add Image to content" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Image to content" />
   </component>
 </project>
