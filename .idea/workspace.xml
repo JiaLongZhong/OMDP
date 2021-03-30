@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="46c2baa7-1f1c-4c3d-a704-75b7eb23ad1b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +61,7 @@
       <workItem from="1616767661059" duration="8571000" />
       <workItem from="1616778523278" duration="33000" />
       <workItem from="1617110557879" duration="2958000" />
-      <workItem from="1617121039062" duration="462000" />
+      <workItem from="1617121039062" duration="1757000" />
     </task>
     <task id="LOCAL-00001" summary="Add .gitignore and README.MD">
       <created>1616425120293</created>
@@ -279,7 +280,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617114340635</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Update README.MD">
+      <created>1617121533571</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1617121533571</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -306,11 +314,11 @@
     <MESSAGE value="Adding content to Facebook2.html" />
     <MESSAGE value="Adding content to Analysis.html" />
     <MESSAGE value="Adding content to Privacy.html" />
-    <MESSAGE value="Update README.MD" />
     <MESSAGE value="Create docs Folder" />
     <MESSAGE value="Add image to docs Folder + update README.MD" />
     <MESSAGE value="Fix tag" />
     <MESSAGE value="Add Image to content" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Image to content" />
+    <MESSAGE value="Update README.MD" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update README.MD" />
   </component>
 </project>
