@@ -2,7 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46c2baa7-1f1c-4c3d-a704-75b7eb23ad1b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/image/Cam.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/image/FB.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/image/FP.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/image/Govern.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/image/Protect.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/image/See.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/image/VPN.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/image/Watch.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Analysis.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Analysis.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Anonymous.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Anonymous.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Browser_Fingerprinting.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Browser_Fingerprinting.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Capitalism.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Capitalism.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Edward2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Edward2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Facebook1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Facebook1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Facebook2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Facebook2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Privacy.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Privacy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Tracked.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Tracked.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,11 +54,12 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Internet" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jia Zhong\WebstormProjects\OMDP\docs\image" />
       <recent name="C:\Users\Jia Zhong\WebstormProjects\OMDP\docs" />
       <recent name="C:\Users\Jia Zhong\WebstormProjects\OMDP\image" />
     </key>
@@ -56,7 +75,9 @@
       <workItem from="1616424926252" duration="2903000" />
       <workItem from="1616509546174" duration="9666000" />
       <workItem from="1616766178660" duration="1242000" />
-      <workItem from="1616767661059" duration="7678000" />
+      <workItem from="1616767661059" duration="8571000" />
+      <workItem from="1616778523278" duration="33000" />
+      <workItem from="1617110557879" duration="2774000" />
     </task>
     <task id="LOCAL-00001" summary="Add .gitignore and README.MD">
       <created>1616425120293</created>
@@ -261,14 +282,20 @@
       <option name="project" value="LOCAL" />
       <updated>1616775246217</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Fix tag">
+      <created>1616775538369</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1616775538369</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Fixed footer error (index.html)" />
     <MESSAGE value="Add carousel to homepage (index.html)" />
     <MESSAGE value="Fixed error" />
     <MESSAGE value="Editing NAVBAR" />
@@ -293,6 +320,7 @@
     <MESSAGE value="Update README.MD" />
     <MESSAGE value="Create docs Folder" />
     <MESSAGE value="Add image to docs Folder + update README.MD" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add image to docs Folder + update README.MD" />
+    <MESSAGE value="Fix tag" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix tag" />
   </component>
 </project>
