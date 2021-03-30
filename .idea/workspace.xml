@@ -61,7 +61,7 @@
       <workItem from="1616767661059" duration="8571000" />
       <workItem from="1616778523278" duration="33000" />
       <workItem from="1617110557879" duration="2958000" />
-      <workItem from="1617121039062" duration="1757000" />
+      <workItem from="1617121039062" duration="3153000" />
     </task>
     <task id="LOCAL-00001" summary="Add .gitignore and README.MD">
       <created>1616425120293</created>
@@ -287,15 +287,27 @@
       <option name="project" value="LOCAL" />
       <updated>1617121533571</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Update carousel">
+      <created>1617123283796</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1617123283796</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Update carousel part 2">
+      <created>1617123511650</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1617123511650</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Fixed error" />
-    <MESSAGE value="Editing NAVBAR" />
     <MESSAGE value="Editing Pic" />
     <MESSAGE value="ADD More carousel" />
     <MESSAGE value="carousel image test" />
@@ -319,6 +331,8 @@
     <MESSAGE value="Fix tag" />
     <MESSAGE value="Add Image to content" />
     <MESSAGE value="Update README.MD" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update README.MD" />
+    <MESSAGE value="Update carousel" />
+    <MESSAGE value="Update carousel part 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update carousel part 2" />
   </component>
 </project>
